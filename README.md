@@ -12,5 +12,5 @@
 
 Модуль в используемый Blackbox Exporter - http_2xx - модуль настроен для выполнения HTTP-запросов, ожидая успешный ответ от целевого ресурса. Если ответ соответствует статусу 2xx, то проверка считается успешной.
 
-Пример работы сбора метрик доступности, визуализированный с помощью grafana и dashboard[https://grafana.com/grafana/dashboards/7587-prometheus-blackbox-exporter/] для нее:
+Пример работы сбора метрик доступности, визуализированный с помощью grafana и [dashboard](https://grafana.com/grafana/dashboards/7587-prometheus-blackbox-exporter/) для нее:
 ![image](https://github.com/user-attachments/assets/12b2e282-a146-415d-8667-3acb1d4d3185)
